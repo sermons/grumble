@@ -10,3 +10,8 @@ All the people of Israel <br/>
 which they grumble **against me**."
 
 [Numbers 14:2,27 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Have I ever felt <br/> like God **hates** me?
+<!-- .element: class="r-fit-text" -->
