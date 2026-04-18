@@ -25,6 +25,18 @@ which they grumble **against me**."
 [Numbers 14:2,27 (ESV)](# "ref")
 
 ---
+Would that we had **died** in the land of **Egypt**! <br/>
+Or would that we had died in this **wilderness**! <br/>
+Why is the Lord bringing us into this land, <br/>
+to fall by the **sword**? 
+
+Our wives and our little ones will <br/>
+become a **prey**. Would it not be better <br/>
+for us to **go back** to Egypt?”
+
+[Numbers 14:2-3 (ESV)](# "ref")
+
+---
 Yet you [...] **rebelled** against <br/>
 the command of the Lord your God. <br/>
 And you **murmured** in your tents and said, 
@@ -37,7 +49,7 @@ to **destroy** us."
 [Deuteronomy 1:26-27 (ESV)](# "ref")
 
 ---
-Note then the **kindness** and the **severity** of God: <br/>
+The **kindness** and the **severity** of God: <br/>
 severity toward those who have **fallen**, <br/>
 but God's kindness to you, <br/>
 provided you **continue** in his kindness. 
