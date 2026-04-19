@@ -3,6 +3,16 @@
 ## Num14:1-10
 
 ---
+## When We Grumble [(Num 14)](# "ref")
+
+1. The Promised Land
+1. Murmurs
+1. The Severity of God
+1. The Kindness of God
+
+<!-- .element: class="r-fit-text" -->
+
+---
 I have surely seen the **affliction** <br/>
 of my people who are in Egypt and have <br/>
 heard their **cry** because of their taskmasters. 
