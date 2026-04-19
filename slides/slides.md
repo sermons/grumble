@@ -160,10 +160,10 @@ as God did from his.
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> class="outline" -->
 ## When We Grumble [(Num 14)](# "ref")
-1. The Promised Land
-1. **Murmurs**
-1. The Severity of God
-1. The Kindness of God
+1. The Promised Land [(Ex3)](# "ref")
+1. **Murmurs** [(v2-3)](# "ref")
+1. The Severity of God [(v11-23)](# "ref")
+1. The Kindness of God [(Rom11, Heb3-4)](# "ref")
 
 >>>
 + **Challenges** to our faith
@@ -267,10 +267,10 @@ to **destroy** us."
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> class="outline" -->
 ## When We Grumble [(Num 14)](# "ref")
-1. The Promised Land
-1. Murmurs
-1. **The Severity of God**
-1. The Kindness of God
+1. The Promised Land [(Ex3)](# "ref")
+1. Murmurs [(v2-3)](# "ref")
+1. **The Severity of God** [(v11-23)](# "ref")
+1. The Kindness of God [(Rom11, Heb3-4)](# "ref")
 
 >>>
 + leads to to **resentment**
@@ -416,10 +416,10 @@ that I swore to give to their fathers.
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> class="outline" -->
 ## When We Grumble [(Num 14)](# "ref")
-1. The Promised Land
-1. Murmurs
-1. The Severity of God
-1. **The Kindness of God**
+1. The Promised Land [(Ex3)](# "ref")
+1. Murmurs [(v2-3)](# "ref")
+1. The Severity of God [(v11-23)](# "ref")
+1. **The Kindness of God** [(Rom11, Heb3-4)](# "ref")
 
 >>>
 + **Yield** to God's auth,
