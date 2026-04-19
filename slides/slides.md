@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> id="title" -->
 # When We Grumble <br/> Against God
-## Num14:1-10
+## Numbers 14:1-10
 
 [Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
@@ -10,10 +10,12 @@
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ blesses everyone but me 
-+ prayed + done all I'm supposed to 
-+ doesn't hear, exist, able 
-+ or worse, doesn't care 
++ God **blesses** everyone but me 
+  + prayed, done all **supposed** to 
++ Still **stuck**, trapped, 
+  + no way out, no **hope**
++ God doesn't **hear**, exist, able 
+  + or worse, doesn't **care**
 
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> id="outline" class="outline" -->
@@ -25,8 +27,10 @@
 1. The Kindness of God
 
 >>>
-+ first clarify what **promised land** is
-+ back in **burning bush**,
++ Faith **journey**, arc of redemp
++ Start at **finish** line: first
+  + clarify what **promised land** is
++ Back in **burning bush**,
   + God did make a **glorious promise**
   + to Isr:
 
@@ -45,9 +49,9 @@ a land flowing with milk and honey
 [Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
-+ promise of **blessing** and **peace**
-+ reaffirmation of promise 400yrs prior
-  + to **Abraham** in the land of Canaan:
++ Promise of **blessing** and **peace**
++ Reaffirmation of promise 400yrs prior
+  + to **Abraham** in land of Canaan:
 
 ---
 <!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
@@ -64,17 +68,17 @@ To your offspring **I give this land**
 [Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
-+ So they had a specific **promise**,
-  + thus their **disbelief** in it
-  + invited God's **judgment**
-+ But don't think **promised land**
-  + equals **our** goals
++ So Isr had a specific **promise**,
++ Thus their **disbelief** in it
+  + invited God's **judgment**.
++ But we mustn't think **prom land**
+  + equals **our** goals:
 + "I've had **setbacks** in life, but
   + if I just **believe** enough,
   + God will **bless** me"
 + Crowds who **delighted** 
   + in Jesus' **miracles**
-  + thought He would 
++ thought He would 
   + **overthrow** the Romans:
 
 ---
@@ -90,13 +94,13 @@ Jesus **withdrew** again
 [Sarah Penney](https://unsplash.com/photos/-6nDec_KT7U "caption")
 
 >>>
-+ the promised land was not 
++ bc promised land was not 
   + military **victory**
   + a human **government**
   + a patriotic **tribe** to belong
 + Jesus came to **suffer**
   + and die for our **sins**
-+ same crowds shouted **"Crucify!"**
++ Same crowds shouted **"Crucify!"**
   + bc the **promised land**
   + was not what they **expected**
 + 1st coming to pave the way
@@ -141,7 +145,7 @@ as God did from his.
   + sun w/o rain
   + joy w/o sorrow
   + peace w/o pain
-+ Not **happy** families,
++ Jesus brought not **happy** fam,
   + but **sword** of division
 + Vacations not **instagram**-worthy
   + but stressful, ugly **battles**
@@ -161,10 +165,10 @@ as God did from his.
 1. The Kindness of God
 
 >>>
-+ **challenges** to our faith
-+ when God asks 
++ **Challenges** to our faith
++ When God asks 
   + the **impossible** of us
-+ **bitterness** starts festering:
++ **Bitterness** starts festering:
 
 ---
 <!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
@@ -180,14 +184,19 @@ which they grumble **against me**."
 
 >>>
 + "grumble": murmur, indistinct vocal
-  + impotent **dissent**:
-+ "I don't **like** it, but 
++ Plausible **deniability**
+  + "I didn't say anything":
+  + passive aggressive
++ **Kids** grumble when forced to 
+  + say **thank you** for ugly gift
++ Impotent **dissent**:
+  + "I don't **like** it, but 
   + I can't **do** anything about it"
-+ e.g., say **10q** for ugly gift
 + Can't **fight** God, but 
   + His **plan** is terrible
   + His **intent** is to **harm**
-+ I'd rather **die**:
++ Feel **trapped**, and, like Isr, 
+  + maybe even rather **die**:
 
 ---
 <!-- .slide: <%= bg("unsplash-UQJP4eEqRV0-camel_caravan.jpg") %> -->
@@ -204,8 +213,8 @@ for us to **go back** to Egypt?”
 [Dallol, Ethiopia. Trevor Cole](https://unsplash.com/photos/UQJP4eEqRV0 "caption")
 
 >>>
-+ see no **hope**
-+ going to **die** anyway,
++ See no **hope**
++ Going to **die** anyway,
   + rather die in **familiar** place
 + God wants to **destroy** me
 + In **Deut 1**, 40yrs later,
@@ -228,13 +237,13 @@ to **destroy** us."
 
 >>>
 + Resentment bubbles up in each **heart**
-+ Vents outward in **grumbling** w/in family
++ Vents outward as **grumbling** in private
 + Culminates in **org** rebellion
   + (select leader to return to Egypt)
 + Root **assumption**:
   + that God **hates** us
   + and wants to **destroy** us
-+ doubting God's **love**:
++ Doubting God's **love**:
   + not just that God **is** love
   + but that He loves **me**
 
@@ -244,10 +253,10 @@ to **destroy** us."
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ far away from **love** of God
-  + or it applies to **others**
-+ **trials** in journey of faith
-  + mean God wants to **destroy**
++ Far away from **love** of God
+  + or it applies to **others**? 
++ **Trials** in journey of faith
+  + mean God wants to **destroy**? 
 + Every line in Ps 136:
   + His steadfast **love**
   + endures forever
@@ -265,7 +274,8 @@ to **destroy** us."
 + leads to to **resentment**
   + to **grumbling**
   + to **rebellion**
-  + to **judgment**:
+  + to **judgment**
++ Out of His glory, God **speaks**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
@@ -281,21 +291,22 @@ that I have done among them?
 >>>
 + "despise": contempt (NIV)
   + as **lesser**, or as **evil**
-+ doubt God's **power** or **goodness**
+  + doubt God's **pwr** or **goodness**
 + "believe": not intellect **assent**
-  + self-ID as Chr
-+ not going thru **motions** of Chr
-  + not really about **Canaan**:
-  + end ch14, go up to attack
-+ But heart **attitude**:
-  + **obey** God or **rebel**:
-+ "I tried it **Your** way, didn't work"
-  + "now we do it my way"
+  + self-ID as Chr, or
+  + **checklist** of Chr deeds
++ God desires **mercy**, not sacrif
+  + Heart **attitude**:
+  + **obey** God or **rebel**
++ Never really about **Canaan**:
+  + end **ch14**, go up to take Canaan
++ Mo: you turned **back** from God
+  + now trying to avoid **punish**
 + Yes, there is **forgiveness**,
   + but do not mistake God's
 + **kindness** for **blindness**, or
   + **meekness** for **weakness**
-+ Moses in **praying** for mercy:
++ See how Moses **prays** for mercy:
 
 ---
 <!-- .slide: <%= bg("unsplash-6tfO1M8_gas-forest_mist_beams.jpg") %> -->
@@ -312,7 +323,8 @@ of your **steadfast love**
 + Not bc rebellion was no **big deal**
 + Solely bc **God's** love
   + not our worthiness
-+ And not without **consequences**:
++ And not without **consequences**
+  + prev vs:
 
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
@@ -329,9 +341,9 @@ to the third and the fourth generation.
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
-+ **generational** curse:
-  + our **sin** affects those around us
-+ our kids are **watching** us
++ **Generational** curse:
+  + Our **sin** affects those around us
++ Our kids are **watching** us
   + how we treat those **weaker**
 + Though I may **say** I'm not my parents
   + when **stressed**, tired
@@ -387,16 +399,17 @@ that I swore to give to their fathers.
 + I've **heard** the sermons
   + **read** the Bible
   + **know** the path to walk
-+ But I just don't **wanna**
-  + I have my **own** way
++ "I tried it **God's** way, didn't work,
+  + now we do it my way" 
 + What God **asks** of me
   + is **impossible**:
-  + sets me up for **failure**
+  + setting me up for **failure**
 + Is that **you**, today?
 + Doubting God's **love** + **auth**:
-  + to resent, grumble, rebel
-+ **Please** turn around bf too late!
-  + Joshua + Caleb **tore** clothes
+  + to resent, grumble,
+  + rebel + disbelief
++ Joshua + Caleb **tore** clothes:
+  + **Please** turn bf too late!
 
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> class="outline" -->
@@ -408,8 +421,8 @@ that I swore to give to their fathers.
 >>>
 + **Yield** to God's auth,
   + not only bc **fear** of judgment
-+ but bc **hope** of **kindness**
-  + **Rom 11**: take note of
++ but bc **hope** of kindness
++ **Rom 11**: take note of
 
 ---
 <!-- .slide: <%= bg("unsplash-mHLHSn4gtno-vine.jpg") %> -->
@@ -424,10 +437,11 @@ Otherwise you too will be **cut off**.
 [Flor Saurina](https://unsplash.com/photos/mHLHSn4gtno "caption")
 
 >>>
-+ those who were part of orig **vine**
++ Those who were part of orig **vine**
   + saw **glory** + signs
   + self-ID as **followers**
-+ but **hardened** hearts
+  + knew His **law**
++ But **hardened** their hearts
   + and were **cut off**
   + bc of **unbelief**
 + Heb 3, quoting Ps 95:
