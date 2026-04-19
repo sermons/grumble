@@ -20,7 +20,7 @@
   + to Isr:
 
 ---
-<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
 I have surely seen the **affliction** <br/>
 of my people who are in Egypt and have <br/>
 heard their **cry** because of their taskmasters. 
@@ -31,7 +31,7 @@ to a **good and broad land**, <br/>
 a land flowing with milk and honey
 
 [Exodus 3:7-8 (ESV)](# "ref")
-[Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
 + promise of **blessing** and **peace**
@@ -39,7 +39,7 @@ a land flowing with milk and honey
   + to **Abraham** in the land of Canaan:
 
 ---
-<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 Know for **certain** that your offspring will be <br/>
 **sojourners** in a land that is not theirs <br/>
 and will be **servants** there. [...]
@@ -50,7 +50,7 @@ in the fourth generation [...]
 To your offspring **I give this land**
 
 [Genesis 15:13,16,18 (ESV)](# "ref")
-[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + So they had a specific **promise**,
@@ -354,7 +354,7 @@ ten times and have not **obeyed** my voice,
 shall see the **land** <br/>
 that I swore to give to their fathers. 
 
-[Numbers 4:22-23 (ESV) (p.1/2)](# "ref")
+[Numbers 4:22-23 (ESV) (p.2/2)](# "ref")
 
 >>>
 + Yes, there is **forgiveness**:
