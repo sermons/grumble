@@ -5,6 +5,17 @@
 [Silverthorne, CO. Nathan Anderson](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 ---
+<!-- .slide: data-background="white" -->
+# Have I grown <br/> **resentful** of God? 
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ blesses everyone but me 
++ prayed + done all I'm supposed to 
++ doesn't hear, exist, able 
++ or worse, doesn't care 
+
+---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> id="outline" class="outline" -->
 ## When We Grumble [(Num 14)](# "ref")
 
